@@ -1,9 +1,15 @@
 numpy 
 pandas 
-scikit-learn 
+scikit-learn
 matplotlib 
 seaborn 
 tensorflow 
 keras 
 xgboost 
 lightgbm 
+joblib 
+hyperopt 
+optuna
+ipykernel
+
+
